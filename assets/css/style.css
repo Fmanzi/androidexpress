@@ -1739,8 +1739,8 @@ footer {
 /**
  * responsive larger than 480px screen
  */
-
-@media (min-width: 480px) {
+/* @media (min-width: 480px) */
+@media (min-width: 200px) {
 
   /**
    * #CUSTOM PROPERTY
